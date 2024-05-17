@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👽, I'm Emily</h1>
-<h3 align="center">Code Monkey</h3>
+<h3 align="center" color="green">Code Monkey</h3>
 
 - 🔭 I’m currently working on **BBBT**
 
