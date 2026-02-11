@@ -1,4 +1,6 @@
 <h1 align="center">Greetings 👽, I'm Emily</h1>
+
+<!--
 <h3 align="center">I'm a Web Development mentor for <a href="https://www.codeacademyberlin.com/" target="_blank">Code Academy Berlin</a></h3>
 
 🔭 I’m currently working through <a href="https://cs50.harvard.edu/x/2024/" target="_blank"> CS50 - Introduction to Computer Science</a>
@@ -23,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madame-aehm&show_icons=true&locale=en&layout=compact" alt="madame-aehm" /></p>
 
-<!--
+
 **Madame-Aehm/Madame-Aehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
