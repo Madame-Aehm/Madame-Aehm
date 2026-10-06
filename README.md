@@ -1,4 +1,4 @@
-<h1 align="center">Greetings 👽, I'm Emily</h1>
+<h1 align="center">Greetings 👽 I'm Emily</h1>
 
 <!--
 <h3 align="center">I'm a Web Development mentor for <a href="https://www.codeacademyberlin.com/" target="_blank">Code Academy Berlin</a></h3>
